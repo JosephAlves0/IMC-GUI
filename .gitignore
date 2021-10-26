@@ -21,3 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+ImcGUI/build/classes/imcgui/ImcFramePrincipal.form
+ImcGUI/build.xml
+ImcGUI/build/classes/.netbeans_automatic_build
+ImcGUI/src/imcgui/ImcFramePrincipal.form
+ImcGUI/nbproject/project.xml
+ImcGUI/nbproject/project.properties
+ImcGUI/nbproject/private/private.properties
+ImcGUI/nbproject/genfiles.properties
+ImcGUI/nbproject/build-impl.xml
+ImcGUI/manifest.mf
+ImcGUI/build/classes/.netbeans_update_resources
